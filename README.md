@@ -32,3 +32,7 @@ If use Tableau Public - download *.csv files for analysis as described in
 
 Illustrations:
 ![I1](https://github.com/meinou/enron/blob/master/screenshots/conversations.png)
+![I2](https://github.com/meinou/enron/blob/master/screenshots/chains.png)
+![I3](https://github.com/meinou/enron/blob/master/screenshots/people.png)
+![I4](https://github.com/meinou/enron/blob/master/screenshots/employees.png)
+![I5](https://github.com/meinou/enron/blob/master/screenshots/senders.png)
