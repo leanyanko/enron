@@ -1,5 +1,7 @@
 # [WebSite](http://enron.s3-website-us-east-1.amazonaws.com/)
 
+# [NLP analysis of emails content](https://github.com/meinou/email_analysis)
+
 This project is creates to investigate relations within a subset of Enron employees email conversations happened between 1998 and 2001 years.
 
 Project implemented with Java Maven, result stored at PostgreSQL
